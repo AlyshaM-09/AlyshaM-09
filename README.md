@@ -1,7 +1,13 @@
 ### Hello, I am Alysha Merithew 🤗
 
 <!--
-**AlyshaM-09/AlyshaM-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### osTicking examples
+     - setting up resource groups and virtual machine
+        - setting up os ticking
+        - understanding osticking
+### Understanding VPN
+    - purpose of vpn
+### Computer basics
+    - OSI model
+    - Compents of a computer
 -->
