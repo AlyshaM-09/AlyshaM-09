@@ -1,13 +1,13 @@
-### Hello, I am Alysha Merithew 🤗
+# Hello, I am Alysha Merithew 🤗
 
 <!--
-## osTicking examples
+## *osTicking examples*
      - setting up resource groups and virtual machine
         - setting up os ticking
         - understanding osticking
-## Understanding VPN
+### *Understanding VPN*
     - purpose of vpn
-## Computer basics
+#### *Computer basics*
     - OSI model
     - Compents of a computer
 -->
