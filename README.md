@@ -1,7 +1,7 @@
 # Hello, I am Alysha Merithew 🤗
 
 <!--
-<h2> osTicking examples </h2>
+<h2>osTicking examples</h2>
      - setting up resource groups and virtual machine
         - setting up os ticking
         - understanding osticking
