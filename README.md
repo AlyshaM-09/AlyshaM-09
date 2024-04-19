@@ -2,12 +2,11 @@
 
 
 ## osTicking examples
-        - setting up resource groups and virtual machine
-        - setting up os ticking
-        - understanding osticking
-## Understanding VPN
-    - purpose of vpn
-## Computer basics
-    - OSI model
-    - Compents of a computer
--->
+ - setting up resource groups and virtual machine
+  - setting up os ticking
+  - understanding osticking
+## Active Directory
+ - 
+## DNS
+- 
+    
