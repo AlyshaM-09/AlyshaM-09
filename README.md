@@ -18,5 +18,5 @@
 <b>Other Projects</b>
 
 <h2>Contact </h2>
-<a href="www.linkedin.com/in/alysha-merithew-513ba418b"> Linkin</a>
+<a href="www.linkedin.com/in/alysha-merithew-513ba418b"> Linkedin</a>
 
