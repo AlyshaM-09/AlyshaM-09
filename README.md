@@ -5,9 +5,9 @@
 <b>osTicking</b>
  - [osTicking: Prerequisites](https://github.com/AlyshaM-09/osTicketing-Prerequisites)
 
- - [osTicketing: Configuration] ()
+ - [osTicketing: Configuration](https://github.com/AlyshaM-09/osTicketing-Configuration)
 
- - [osTicketing: Examples] ()
+ - [osTicketing: Examples]()
 
 <b>Microsoft Azure</b>
 
