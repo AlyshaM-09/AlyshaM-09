@@ -3,11 +3,11 @@
 <h2>Information Technology Projects</h2>
 
 <b>osTicking</b>
-- Intall
+ - [osTicking: Prerequisites](https://github.com/AlyshaM-09/osTicketing-Prerequisites)
 
- - Config
+ - [osTicketing: Configuration] ()
 
- - Examples
+ - [osTicketing: Examples] ()
 
 <b>Microsoft Azure</b>
 
