@@ -7,8 +7,6 @@
 
  - [osTicketing: Configuration](https://github.com/AlyshaM-09/osTicketing-Configuration)
 
- - [osTicketing: Examples]()
-
 <b>Microsoft Azure</b>
 
  - Active Directory
