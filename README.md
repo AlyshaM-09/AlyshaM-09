@@ -14,7 +14,6 @@
  - [DNS](https://github.com/AlyshaM-09/DNS)
 
 <b>Other Projects</b>
-- Microsoft Dynamtic 365
 - Tablbeau
 - CompTia A+ <!-- geralized notes from Professor Messer notes -->
 - CompTia Network <!-- notes same as above -->
