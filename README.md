@@ -14,7 +14,7 @@
  - [DNS](https://github.com/AlyshaM-09/DNS)
 
 <b>Certfications</b>
-- CompTIA A+ cor 1 & 2 (pending)
+- CompTIA A+ core 1 & 2 (pending)
 - CompTIA Networking+ (pending)
 - CompTIA Security (pending)
 - Course Careers cert (half way there)
