@@ -3,9 +3,9 @@
 <h2>Information Technology Projects</h2>
 
 <b>osTicking</b>
- - [osTicking: Prerequisites](https://github.com/AlyshaM-09/osTicketing-Prerequisites)
+ - [osTicking: Prerequisites](https://github.com/AlyshaM-09/osTicketing-Prerequisites) (video complete)
 
- - [osTicketing: Configuration](https://github.com/AlyshaM-09/osTicketing-Configuration)
+ - [osTicketing: Configuration](https://github.com/AlyshaM-09/osTicketing-Configuration) (video Pending)
 
 <b>Microsoft Azure</b>
 
@@ -13,7 +13,11 @@
 
  - [DNS](https://github.com/AlyshaM-09/DNS)
 
-<b>Other Projects</b>
+<b>Certfications</b>
+- CompTIA A+ cor 1 & 2 (pending)
+- CompTIA Networking+ (pending)
+- CompTIA Security (pending)
+- Course Careers cert (half way there)
 
 <h2>Contact </h2>
 
