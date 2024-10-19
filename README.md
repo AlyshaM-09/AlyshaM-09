@@ -11,6 +11,8 @@
 
  - [Active Directory](https://github.com/AlyshaM-09/Active-Directory)
 
+ - [Group Policy]
+
  - [DNS](https://github.com/AlyshaM-09/DNS)
 
 <b>Certfications</b>
