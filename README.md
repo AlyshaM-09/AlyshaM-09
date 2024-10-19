@@ -11,7 +11,7 @@
 
  - [Active Directory](https://github.com/AlyshaM-09/Active-Directory)
 
- - [Group Policy]
+ - [Group Policy](https://github.com/AlyshaM-09/Group-Policy)
 
  - [DNS](https://github.com/AlyshaM-09/DNS)
 
