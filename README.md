@@ -7,7 +7,7 @@
 
  - [osTicketing: Configuration](https://github.com/AlyshaM-09/osTicketing-Configuration) (video Pending)
 
-<b>Microsoft Azure</b>
+<b>Active Directory</b>
 
  - [Active Directory](https://github.com/AlyshaM-09/Active-Directory)
 
