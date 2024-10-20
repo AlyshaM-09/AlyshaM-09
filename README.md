@@ -5,7 +5,7 @@
 <b>osTicking</b>
  - [osTicking: Prerequisites](https://github.com/AlyshaM-09/osTicketing-Prerequisites) (video complete)
 
- - [osTicketing: Configuration](https://github.com/AlyshaM-09/osTicketing-Configuration) (video Pending)
+ - [osTicketing: Configuration](https://github.com/AlyshaM-09/osTicketing-Configuration) 
 
 <b>Active Directory</b>
 
