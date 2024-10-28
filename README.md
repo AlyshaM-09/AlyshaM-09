@@ -3,7 +3,7 @@
 <h2>Information Technology Projects</h2>
 
 <b>osTicking</b>
- - [osTicking: Prerequisites](https://github.com/AlyshaM-09/osTicketing-Prerequisites) (video complete)
+ - [osTicking: Prerequisites](https://github.com/AlyshaM-09/osTicketing-Prerequisites) 
 
  - [osTicketing: Configuration](https://github.com/AlyshaM-09/osTicketing-Configuration) 
 
