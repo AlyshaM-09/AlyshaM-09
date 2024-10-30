@@ -3,9 +3,8 @@
 <h2>Information Technology Projects</h2>
 
 <b>osTicking</b>
- - [osTicking: Prerequisites](https://github.com/AlyshaM-09/osTicketing-Prerequisites) 
+ - [Installing osTicket](https://github.com/AlyshaM-09/osTicketing-Prerequisites) 
 
- - [osTicketing: Configuration](https://github.com/AlyshaM-09/osTicketing-Configuration) 
 
 <b>Active Directory</b>
 
