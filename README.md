@@ -1,6 +1,8 @@
 <h1>Hello, I am Alysha Merithew 🤗</h1> 
 
-<h2>Information Technology Projects</h2>
+<h2>Information Technology Projects through Course Careers</h2>
+
+Each project is a demonstration of skills learned. I have learned to use osTicketing systems, Active Directory, Group Policy, and DNS.
 
 <b>osTicking</b>
  - [Installing osTicket](https://github.com/AlyshaM-09/osTicketing-Prerequisites) 
