@@ -2,7 +2,7 @@
 
 <h2>Information Technology Projects through Course Careers</h2>
 
-Each project is a demonstration of skills learned. I have learned to use osTicketing systems by installing/uninstalling programs and how to change permissions in Active Directory. Finally editing Group Policy for company policies and finally troubleshooting DNS.
+Each project is a demonstration of skills learned. I have learned to use osTicketing systems by installing/uninstalling programs, how to change permissions in Active Directory, and finally, how to edit Group Policy for company policies and troubleshoot DNS.
 
 <b>osTicking</b>
  - [Installing osTicket](https://github.com/AlyshaM-09/osTicketing-Prerequisites) 
@@ -18,7 +18,7 @@ Each project is a demonstration of skills learned. I have learned to use osTicke
 
 <b>Certfications</b>
 - CompTIA A+ core 1 & 2 (studying)
-- Course Careers cert (half way there)
+- Course Careers cert (halfway there)
 
 <h2>Contact </h2>
 
