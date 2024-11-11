@@ -2,7 +2,7 @@
 
 <h2>Information Technology Projects through Course Careers</h2>
 
-Each project is a demonstration of skills learned. I have learned to use osTicketing systems, Active Directory, Group Policy, and DNS.
+Each project is a demonstration of skills learned. I have learned to use osTicketing systems by installing/uninstalling programs and how to change permissions in Active Directory. Finally editing Group Policy for company policies and finally troubleshooting DNS.
 
 <b>osTicking</b>
  - [Installing osTicket](https://github.com/AlyshaM-09/osTicketing-Prerequisites) 
