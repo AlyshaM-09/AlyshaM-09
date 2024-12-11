@@ -1,6 +1,6 @@
 <h1>Hello, I am Alysha Merithew 🤗</h1> 
 
-<h2>Information Technology Projects through Course Careers</h2>
+<h2>Information Technology Projects</h2>
 
 
 <b>osTicking</b>
@@ -15,12 +15,18 @@
 
  - [DNS](https://github.com/AlyshaM-09/DNS)
 
-   <b>CompTIA A+ core 1 study notes</b> <br>
-   Mobile Devices
-   - Obj. 1.1
-   - Obj 1.2
-   - Obj. 1.3
-   - Objective 1.4
+ <b>CompTIA A+ core 1 Study Notes</b> <br>
+   - Mobile Devices
+   - Networking
+   - Hardware
+   - Virtualization and Cloud Computing
+   - Hardware and Network Troubleshooting <br>
+
+ <b>CompTIA A+ Core 2 Study Notes</b><br>
+   - Operating Systems
+   - Security
+   - Software Troubleshooting
+   - Operational Procedures
 
 <b>Certfications</b>
 - CompTIA A+ core 1 & 2 (studying)
