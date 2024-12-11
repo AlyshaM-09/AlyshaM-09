@@ -15,9 +15,16 @@
 
  - [DNS](https://github.com/AlyshaM-09/DNS)
 
+   <b>CompTIA A+ core 1 study notes</b> <br>
+   Mobile Devices
+   - Obj. 1.1
+   - Obj 1.2
+   - Obj. 1.3
+   - Objective 1.4
+
 <b>Certfications</b>
 - CompTIA A+ core 1 & 2 (studying)
-- Course Careers cert (halfway there)
+- Course Careers cert (complete)
 
 <h2>Contact </h2>
 
