@@ -38,3 +38,7 @@
 
 [linkedin]: https://www.linkedin.com/in/alysha-merithew-5dh3t6j113ba418b
 
+[<img align="left" alt="AlyshaMerithew | Course Careers" width="22px" src="https://github.com/user-attachments/assets/27e4f9b8-87bb-4b12-a817-f32745b9a182" />][Course Careers]
+
+[Course Careers]: https://profile.coursecareers.com/it/alysha.merithew
+
