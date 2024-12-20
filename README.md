@@ -15,18 +15,7 @@
 
  - [DNS](https://github.com/AlyshaM-09/DNS)
 
- <b>CompTIA A+ core 1 Study Notes</b> <br>
-   - Mobile Devices
-   - Networking
-   - Hardware
-   - Virtualization and Cloud Computing
-   - Hardware and Network Troubleshooting <br>
-
- <b>CompTIA A+ Core 2 Study Notes</b><br>
-   - Operating Systems
-   - Security
-   - Software Troubleshooting
-   - Operational Procedures
+ 
 
 <b>Certfications</b>
 - CompTIA A+ core 1 & 2 (studying)
